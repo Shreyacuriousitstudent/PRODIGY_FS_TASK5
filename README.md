@@ -86,3 +86,6 @@ Let me know if you'd like help:
 - Turning it into a customizable profile link manager (like Linktree)
 
 I'm here to help! 🌐✨
+
+
+This project is licensed under the MIT License.
